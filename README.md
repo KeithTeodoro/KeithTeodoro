@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Redux, NodeJS, Express, and Mongoose**
 
-- 📫 How to reach me **teodorokeithandref@gmail.com**
+- 📫 How to reach me: **teodorokeithandref@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
